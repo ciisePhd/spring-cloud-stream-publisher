@@ -3,5 +3,5 @@ spring:
     stream:
       bindings:
         output:
-          destination: book-topic
+          destination: book-topic1
 
