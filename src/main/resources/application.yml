@@ -8,5 +8,5 @@ spring:
           - localhost:9092
       bindings:
         output:
-          destination: book-topic1
+          destination: book-topic
 
